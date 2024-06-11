@@ -4,11 +4,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'DM Serif Text', sans-serif;
   }
   
   body{
-    background-color: #F0FFFF;
+    background-color: #40E0D0;
     display: flex;
     flex-direction: column;
     flex-wrap: gap;
@@ -23,7 +23,7 @@
   }
   a{
    text-decoration: none;
-   color: white;
+   color: #008080;
   }
   a:hover{
     border-bottom: 4px solid #9400D3;
