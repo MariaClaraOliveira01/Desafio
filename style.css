@@ -55,7 +55,7 @@
       display:flex;
       flex-wrap: wrap;
       overflow:hidden;
-      heigth:10%;
+      height: 10px;
       font-size:10pt;
   }
   h1{
