@@ -38,3 +38,27 @@
     padding: 5px;
     cursor: pointer;
   }
+  .btn:hover{
+    background-color: rgb(192, 111, 230);
+    color:cyan;
+    transition:0.3s all;
+  }
+  .main-site{
+    text-align: center;
+  }
+  .image{
+    width:100%;
+    height:auto;
+  }
+  @media(max-width:410px){
+    nav{
+      display:flex;
+      flex-wrap: wrap;
+      overflow:hidden;
+      heigth:10%;
+      font-size:10pt;
+  }
+  h1{
+    font-size:15pt;
+  }
+}
